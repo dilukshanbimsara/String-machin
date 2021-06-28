@@ -1,0 +1,75 @@
+
+
+	Row 1
+You are required to implement a suitable string-matching algorithm to offer the user the ability 
+pattern found index 18 to 
+pattern found index 29 t a
+pattern found index 36 tab
+pattern found index 43 tri
+pattern found index 51 tch
+pattern found index 64 thm
+pattern found index 68 to 
+pattern found index 77 the
+pattern found index 86 the
+pattern found index 95 ty 
+
+
+	Row 2
+to find a pattern in a text when the pattern contains “wild-cards”. A wild-card is a special 
+pattern found index 1 to 
+pattern found index 13 tte
+pattern found index 14 ter
+pattern found index 24 tex
+pattern found index 27 t w
+pattern found index 34 the
+pattern found index 40 tte
+pattern found index 41 ter
+pattern found index 49 tai
+
+
+	Row 3
+“symbol” which is meant to match any letter. For this assignment only, the underscore is 
+pattern found index 23 t t
+pattern found index 25 to 
+pattern found index 30 tch
+pattern found index 40 tte
+pattern found index 41 ter
+pattern found index 50 thi
+pattern found index 64 t o
+pattern found index 72 the
+
+
+	Row 4
+considered as a wildcard. For concreteness, it is assumed that the text does not contain the “_”-
+pattern found index 37 ten
+pattern found index 46 t i
+pattern found index 59 tha
+pattern found index 62 t t
+pattern found index 64 the
+pattern found index 68 tex
+pattern found index 71 t d
+pattern found index 80 t c
+pattern found index 85 tai
+pattern found index 90 the
+
+
+	Row 5
+symbol (the underscore). For illustration, the “pattern” c_g can be found in the following “text” 
+pattern found index 9 the
+pattern found index 35 tra
+pattern found index 38 tio
+pattern found index 44 the
+pattern found index 51 tte
+pattern found index 52 ter
+pattern found index 78 the
+pattern found index 93 tex
+pattern found index 96 t” 
+
+
+	Row 6
+cogwrgaccag two times (at the beginning and at the end).pattern found index 13 two
+pattern found index 17 tim
+pattern found index 25 t t
+pattern found index 27 the
+pattern found index 46 t t
+pattern found index 48 the

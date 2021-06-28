@@ -1,0 +1,6 @@
+You are required to implement a suitable string-matching algorithm to offer the user the ability 
+to find a pattern in a text when the pattern contains “wild-cards”. A wild-card is a special 
+“symbol” which is meant to match any letter. For this assignment only, the underscore is 
+considered as a wildcard. For concreteness, it is assumed that the text does not contain the “_”-
+symbol (the underscore). For illustration, the “pattern” c_g can be found in the following “text” 
+cogwrgaccag two times (at the beginning and at the end).
